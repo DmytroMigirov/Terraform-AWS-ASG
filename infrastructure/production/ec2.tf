@@ -1,0 +1,1 @@
+/home/ubuntu/Terraform-AWS-ASG/infrastructure/common/ec2.tf

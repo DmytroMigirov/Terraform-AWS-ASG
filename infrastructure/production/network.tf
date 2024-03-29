@@ -1,0 +1,1 @@
+/home/ubuntu/Terraform-AWS-ASG/infrastructure/common/network.tf
